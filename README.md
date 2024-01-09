@@ -2,7 +2,7 @@
 
 # Часть 01: Python
 Теория: https://younglinux.info/oopython/module
-Практикум(л/р): https://disk.yandex.ru/d/K46Q0UhQORKJWw
+Практикум(задание л/р): https://disk.yandex.ru/d/K46Q0UhQORKJWw
 Шаблоны решений: https://github.com/wegolev/oop/tree/main/lr01_py
 
 #Часть 02: C++
